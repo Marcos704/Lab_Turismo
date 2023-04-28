@@ -23,7 +23,7 @@ function encontra_sequencia_magica($s) {
   
 
 
-// Exemplo de uso
+// Exemplo de uso //
   $s = 'aeiaaioooaauuaeiou';
   $resultado = encontra_sequencia_magica($s);
   echo "Resultado: ".$resultado; // saída: 8

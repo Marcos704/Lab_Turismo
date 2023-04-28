@@ -9,7 +9,7 @@
     return $aux;
   }
   
-  // Testando o código 
+  // Testando o código //
   $n = 5;
   $resultado = fibonacci($n);
   echo '<pre>';

@@ -22,7 +22,7 @@
 }
 
 
- // Testando o código 
+ // Testando o código //
 $arr = array(8, 5, 5, 5, 5, 1, 1, 1, 4, 4);
 $resultado = orndenarArray($arr);
 echo '<pre>';
